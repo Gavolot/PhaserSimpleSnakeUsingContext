@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "allowJs": true,
+        "removeComments": true,
+        "sourceMap": false,
+        "outFile": "game.js"
+    },
+    "files": [
+        "game/color_constants.ts",
+        "game/main_state.ts",
+        "game/main.ts"
+    ]
+}
